@@ -1,0 +1,6 @@
+{
+  "name": "EduCBT Pro - Computer-Based Testing System",
+  "description": "Sistem ujian CBT (Computer-Based Test) standar industri & sekolah dengan proctoring anti-curang, bank soal lengkap, monitoring ruang ujian real-time, dan analitika nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
